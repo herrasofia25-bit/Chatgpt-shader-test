@@ -1,1 +1,6 @@
-
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Simple Vanilla+ Shader"
+  }
+}
